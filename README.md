@@ -17,10 +17,15 @@ A basic Java swing application that allows users to perform basic calculator fun
  - Adds support for negative #'s
  - Allows operations > 29 characters
  - Adds single character delete button (DEL)
- 
-Further potential addons:
- - Support for mannual keyboard expression entry like https://www.desmos.com/calculator
- - Support for calculator memory (Casio calculators allow you to save a single # and perform some op's with it via the M-keys).
- - Button to copy current expression to the clipboard.
- - Button to save current expression (and answer) as a .txt file.
- - (Optional) audio responses to button presses + error messages.
+
+ ==v3==
+ - Adds manual keyboard expression entry.
+ - Adds calculator memory.
+ - Adds expression copying.
+ - Adds expression saving.
+ - Adds audio responses to 
+ - Save last selected theme on application close.
+    > Load last selected theme on application open.
+ - Fix bold text bug.
+ - Add scrollbar to expresssion window (no more expression size limit).
+ - Add custom "WACKY" theme.
