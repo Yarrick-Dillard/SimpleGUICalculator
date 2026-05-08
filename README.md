@@ -17,7 +17,7 @@ A basic Java swing application that allows users to perform basic calculator fun
  - Adds support for negative #'s
  - Allows operations > 29 characters
  - Adds single character delete button (DEL)
-
+ 
  ==v3==
  - Adds manual keyboard expression entry.
  - Adds calculator memory.
@@ -27,5 +27,5 @@ A basic Java swing application that allows users to perform basic calculator fun
  - Save last selected theme on application close.
     > Load last selected theme on application open.
  - Fix bold text bug.
- - Add scrollbar to expresssion window (no more expression size limit).
+ - Add scrollbar to expression window (no more expression size limit).
  - Add custom "WACKY" theme.
